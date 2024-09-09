@@ -1,0 +1,11 @@
+{
+	"blue": {
+		"version": 1,
+		"id": "blue",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 6.575
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"pikachu": {
+		"version": 1,
+		"id": "pikachu",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 1090.909552
+	}
+}

@@ -1,0 +1,2085 @@
+{
+    "asset": {
+        "copyright": "(C)2023 CGTOON_05",
+        "generator": "maya2glTF main fbbc95e5dc4d",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                37,
+                34,
+                1,
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "name": "sky",
+            "mesh": 0,
+            "rotation": [
+                -0.7071068286895752,
+                0.0,
+                0.0,
+                0.7071067094802856
+            ],
+            "scale": [
+                50000.0,
+                50000.0,
+                50000.0
+            ]
+        },
+        {
+            "name": "pm0025_00_pikachu",
+            "children": [
+                2
+            ],
+            "rotation": [
+                -1.330000003463283e-7,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                2.539999961853028,
+                2.539999961853028,
+                2.539999961853028
+            ]
+        },
+        {
+            "name": "Origin",
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "Waist",
+            "children": [
+                21,
+                4
+            ],
+            "translation": [
+                0.0,
+                14.285300254821778,
+                0.262721985578537
+            ],
+            "rotation": [
+                0.030503390356898309,
+                -0.030503276735544209,
+                0.7064498662948608,
+                0.7064472436904907
+            ]
+        },
+        {
+            "name": "Spine1",
+            "children": [
+                5
+            ],
+            "scale": [
+                0.9999997615814208,
+                1.0,
+                0.9999997615814208
+            ]
+        },
+        {
+            "name": "Spine2",
+            "children": [
+                17,
+                10,
+                6
+            ],
+            "translation": [
+                5.55138111114502,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                -0.18357478082180024,
+                0.0,
+                0.9830057621002196
+            ]
+        },
+        {
+            "name": "LShoulder",
+            "children": [
+                7
+            ],
+            "translation": [
+                3.223440170288086,
+                -3.536051034927368,
+                1.346000909805298
+            ],
+            "rotation": [
+                -0.3181477785110474,
+                -0.22739338874816898,
+                -0.5373180508613586,
+                0.7472373247146606
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0000001192092896,
+                1.0
+            ]
+        },
+        {
+            "name": "LArm",
+            "children": [
+                8
+            ],
+            "translation": [
+                5.118751525878906,
+                -0.00000381500012736069,
+                -0.000001906999955281208
+            ],
+            "rotation": [
+                0.21347421407699586,
+                -0.4942721426486969,
+                -0.012248883955180644,
+                0.8425993919372559
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                0.9999998807907105
+            ]
+        },
+        {
+            "name": "LForeArm",
+            "children": [
+                9
+            ],
+            "translation": [
+                5.422382354736328,
+                0.0,
+                9.540000291963225e-7
+            ],
+            "rotation": [
+                1.499999946474873e-8,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "LHand",
+            "translation": [
+                4.472320556640625,
+                9.540000291963225e-7,
+                -0.000001906999955281208
+            ],
+            "rotation": [
+                0.11479144543409348,
+                -1.999999943436137e-9,
+                -1.499999946474873e-8,
+                0.99338960647583
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                0.9999999403953552
+            ]
+        },
+        {
+            "name": "Head",
+            "children": [
+                14,
+                11
+            ],
+            "translation": [
+                8.832683563232422,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.2373747676610947,
+                0.0,
+                0.9714181423187256
+            ],
+            "scale": [
+                1.000000238418579,
+                1.0,
+                1.000000238418579
+            ]
+        },
+        {
+            "name": "REar1",
+            "children": [
+                12
+            ],
+            "translation": [
+                11.946599960327149,
+                6.241560935974121,
+                0.5475606918334961
+            ],
+            "rotation": [
+                -0.19823481142520905,
+                0.01490265130996704,
+                0.36462774872779848,
+                0.9096853733062744
+            ],
+            "scale": [
+                1.000000238418579,
+                1.0000001192092896,
+                1.0000001192092896
+            ]
+        },
+        {
+            "name": "REar2",
+            "children": [
+                13
+            ],
+            "translation": [
+                5.3329925537109379,
+                0.00001525900006527081,
+                -0.000004292000085115433
+            ],
+            "rotation": [
+                -0.0,
+                1.1000000021965663e-8,
+                4.5000000170603019e-8,
+                1.0
+            ]
+        },
+        {
+            "name": "REar3",
+            "translation": [
+                5.102027893066406,
+                -0.00004959099896950647,
+                0.000002384000026722788
+            ],
+            "rotation": [
+                -0.0,
+                2.2000000043931327e-8,
+                2.999999892949745e-8,
+                1.0
+            ]
+        },
+        {
+            "name": "LEar1",
+            "children": [
+                15
+            ],
+            "translation": [
+                11.94660758972168,
+                -6.241559982299805,
+                0.5475654602050781
+            ],
+            "rotation": [
+                0.1982347667217255,
+                0.014902697876095772,
+                -0.36462774872779848,
+                0.9096853733062744
+            ],
+            "scale": [
+                1.0,
+                0.9999999403953552,
+                0.9999998211860656
+            ]
+        },
+        {
+            "name": "LEar2",
+            "children": [
+                16
+            ],
+            "translation": [
+                5.333003997802734,
+                0.000001906999955281208,
+                4.770000145981612e-7
+            ],
+            "scale": [
+                1.000000238418579,
+                1.0,
+                1.000000238418579
+            ]
+        },
+        {
+            "name": "LEar3",
+            "translation": [
+                5.102001190185547,
+                -0.0000076289998105494309,
+                4.770000145981612e-7
+            ],
+            "rotation": [
+                2.2000000043931327e-8,
+                1.499999946474873e-8,
+                1.499999946474873e-8,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                1.000000238418579
+            ]
+        },
+        {
+            "name": "RShoulder",
+            "children": [
+                18
+            ],
+            "translation": [
+                3.223470687866211,
+                3.536050081253052,
+                1.3460006713867188
+            ],
+            "rotation": [
+                0.31814780831336977,
+                -0.22739341855049137,
+                0.5373180508613586,
+                0.7472372651100159
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0,
+                1.0000001192092896
+            ]
+        },
+        {
+            "name": "RArm",
+            "children": [
+                19
+            ],
+            "translation": [
+                5.1187424659729,
+                0.00007629400352016091,
+                0.000012397999853419606
+            ],
+            "rotation": [
+                -0.2134740799665451,
+                -0.4942721426486969,
+                0.012248859740793704,
+                0.8425994515419006
+            ],
+            "scale": [
+                0.9999998807907105,
+                0.9999998807907105,
+                0.9999997615814208
+            ]
+        },
+        {
+            "name": "RForeArm",
+            "children": [
+                20
+            ],
+            "translation": [
+                5.422357559204102,
+                -0.000042914998630294579,
+                -0.0000705720012774691
+            ],
+            "rotation": [
+                -0.0,
+                2.999999892949745e-8,
+                1.499999946474873e-8,
+                1.0
+            ],
+            "scale": [
+                0.9999998807907105,
+                0.9999998807907105,
+                0.9999997615814208
+            ]
+        },
+        {
+            "name": "RHand",
+            "translation": [
+                4.472404479980469,
+                0.00001716599945211783,
+                0.0000667569984216243
+            ],
+            "rotation": [
+                -0.11479143053293228,
+                -2.999999892949745e-8,
+                -3.000000026176508e-9,
+                0.99338960647583
+            ],
+            "scale": [
+                1.0,
+                0.9999999403953552,
+                0.9999999403953552
+            ]
+        },
+        {
+            "name": "Hips",
+            "children": [
+                31,
+                27,
+                26,
+                22
+            ],
+            "rotation": [
+                -0.04314061254262924,
+                -5.7000001163487478e-8,
+                -0.9990690350532532,
+                0.0000013300000318849926
+            ],
+            "scale": [
+                0.9999997615814208,
+                1.0,
+                0.9999997615814208
+            ]
+        },
+        {
+            "name": "RThigh",
+            "children": [
+                23
+            ],
+            "translation": [
+                3.2003707885742189,
+                -6.393030166625977,
+                -1.978639841079712
+            ],
+            "rotation": [
+                0.10155933350324632,
+                -0.4219525456428528,
+                -0.04763297736644745,
+                0.8996515274047852
+            ],
+            "scale": [
+                0.9999999403953552,
+                0.9999999403953552,
+                1.0000001192092896
+            ]
+        },
+        {
+            "name": "RLeg",
+            "children": [
+                24
+            ],
+            "translation": [
+                6.265972137451172,
+                -0.0000014309999869510648,
+                -0.0000057219999689550608
+            ],
+            "rotation": [
+                -1.1600000249245569e-7,
+                0.6831592321395874,
+                3.999999975690116e-8,
+                0.7302694320678711
+            ],
+            "scale": [
+                1.000000238418579,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "RFoot",
+            "children": [
+                25
+            ],
+            "translation": [
+                6.611591815948486,
+                -0.000004292000085115433,
+                -0.000003873999958159402
+            ],
+            "rotation": [
+                6.359999815686024e-7,
+                -0.8907170295715332,
+                -8.160000106727239e-7,
+                0.45455828309059145
+            ],
+            "scale": [
+                1.0000003576278689,
+                1.000000238418579,
+                1.0000001192092896
+            ]
+        },
+        {
+            "name": "RToe",
+            "translation": [
+                4.97599983215332,
+                0.000008582999726058916,
+                -1.0644001960754397
+            ]
+        },
+        {
+            "name": "Feeler",
+            "translation": [
+                4.056127548217773,
+                0.0,
+                -0.028654977679252626
+            ],
+            "rotation": [
+                0.0,
+                -4.770000145981612e-7,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "LThigh",
+            "children": [
+                28
+            ],
+            "translation": [
+                3.200380325317383,
+                6.393030166625977,
+                -1.9786300659179688
+            ],
+            "rotation": [
+                -0.10155922174453736,
+                -0.4219525158405304,
+                0.04763313755393028,
+                0.8996515274047852
+            ],
+            "scale": [
+                0.9999999403953552,
+                0.9999999403953552,
+                1.0
+            ]
+        },
+        {
+            "name": "LLeg",
+            "children": [
+                29
+            ],
+            "translation": [
+                6.265951156616211,
+                0.0,
+                -0.00000381500012736069
+            ],
+            "rotation": [
+                2.2000000043931327e-8,
+                0.6831595301628113,
+                3.099999901223782e-8,
+                0.7302691340446472
+            ],
+            "scale": [
+                1.0000001192092896,
+                1.0000001192092896,
+                1.0
+            ]
+        },
+        {
+            "name": "LFoot",
+            "children": [
+                30
+            ],
+            "translation": [
+                6.611589431762695,
+                0.0,
+                0.0000017290000187131228
+            ],
+            "rotation": [
+                1.6200000629851278e-7,
+                -0.8907169699668884,
+                -0.0000010579999525361928,
+                0.4545583128929138
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                1.0000001192092896
+            ]
+        },
+        {
+            "name": "LToe",
+            "translation": [
+                4.976099967956543,
+                0.0,
+                -1.0643999576568604
+            ],
+            "scale": [
+                1.000000238418579,
+                1.000000238418579,
+                1.0
+            ]
+        },
+        {
+            "name": "Tail1",
+            "children": [
+                32
+            ],
+            "translation": [
+                3.916739463806153,
+                0.0,
+                -9.021114349365237
+            ],
+            "rotation": [
+                -0.5716824531555176,
+                7.610000238855719e-7,
+                0.8204749822616577,
+                0.0000010930000371445204
+            ]
+        },
+        {
+            "name": "Tail2",
+            "children": [
+                33
+            ],
+            "translation": [
+                5.504740715026856,
+                0.0,
+                4.770000145981612e-7
+            ],
+            "rotation": [
+                0.12358306348323822,
+                -0.42016157507896426,
+                -0.22332148253917698,
+                0.8708151578903198
+            ]
+        },
+        {
+            "name": "Tail3",
+            "translation": [
+                12.843997955322266,
+                -9.999999974752428e-7,
+                4.770000145981612e-7
+            ],
+            "rotation": [
+                0.0,
+                -0.12157497555017472,
+                0.0,
+                0.9925822615623474
+            ],
+            "scale": [
+                0.9999999403953552,
+                1.0,
+                0.9999999403953552
+            ]
+        },
+        {
+            "name": "group1",
+            "children": [
+                35
+            ],
+            "translation": [
+                0.0,
+                116.7567901611328,
+                0.0
+            ]
+        },
+        {
+            "name": "ground",
+            "children": [
+                36
+            ],
+            "translation": [
+                0.00009713100007502362,
+                0.000002412999947409844,
+                -0.000013953999769000804
+            ],
+            "rotation": [
+                -1.1699999902248237e-7,
+                0.7898627519607544,
+                4.300000000512228e-8,
+                0.6132836937904358
+            ],
+            "scale": [
+                24303.046875,
+                24303.046875,
+                24303.046875
+            ]
+        },
+        {
+            "name": "ground:PIV",
+            "mesh": 1,
+            "translation": [
+                -0.21251226961612705,
+                0.03338327258825302,
+                -0.052707016468048099
+            ]
+        },
+        {
+            "name": "PikachuM",
+            "mesh": 2,
+            "rotation": [
+                -0.7071067690849304,
+                0.0,
+                0.0,
+                0.7071067690849304
+            ],
+            "scale": [
+                2.539999961853028,
+                2.539999961853028,
+                2.539999961853028
+            ],
+            "skin": 0
+        }
+    ],
+    "meshes": [
+        {
+            "name": "skyShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 2,
+                        "TANGENT": 3,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "groundShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 7,
+                        "TANGENT": 8,
+                        "TEXCOORD_0": 9
+                    },
+                    "indices": 5,
+                    "mode": 4,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "PikachuMShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "JOINTS_0": 11,
+                        "NORMAL": 12,
+                        "POSITION": 13,
+                        "TANGENT": 14,
+                        "TEXCOORD_0": 15,
+                        "WEIGHTS_0": 16
+                    },
+                    "indices": 10,
+                    "mode": 4,
+                    "material": 2
+                },
+                {
+                    "attributes": {
+                        "JOINTS_0": 18,
+                        "NORMAL": 19,
+                        "POSITION": 20,
+                        "TANGENT": 21,
+                        "TEXCOORD_0": 22,
+                        "WEIGHTS_0": 23
+                    },
+                    "indices": 17,
+                    "mode": 4,
+                    "material": 3
+                },
+                {
+                    "attributes": {
+                        "JOINTS_0": 25,
+                        "NORMAL": 26,
+                        "POSITION": 27,
+                        "TANGENT": 28,
+                        "TEXCOORD_0": 29,
+                        "WEIGHTS_0": 30
+                    },
+                    "indices": 24,
+                    "mode": 4,
+                    "material": 4
+                },
+                {
+                    "attributes": {
+                        "JOINTS_0": 32,
+                        "NORMAL": 33,
+                        "POSITION": 34,
+                        "TANGENT": 35,
+                        "TEXCOORD_0": 36,
+                        "WEIGHTS_0": 37
+                    },
+                    "indices": 31,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        }
+    ],
+    "skins": [
+        {
+            "name": "PikachuMShape",
+            "inverseBindMatrices": 38,
+            "joints": [
+                31,
+                32,
+                33,
+                21,
+                4,
+                5,
+                17,
+                18,
+                19,
+                20,
+                10,
+                6,
+                7,
+                14,
+                11,
+                8,
+                9,
+                15,
+                16,
+                12,
+                13,
+                27,
+                28,
+                29,
+                30,
+                26,
+                22,
+                23,
+                24,
+                25
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "name": "lambert2",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "None",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "MaterialFBXASC032FBXASC035160",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 2
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "MaterialFBXASC032FBXASC035161",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "MaterialFBXASC032FBXASC035162",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 4
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "MaterialFBXASC032FBXASC035163",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 5
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 1
+        },
+        {
+            "sampler": 0,
+            "source": 2
+        },
+        {
+            "sampler": 0,
+            "source": 3
+        },
+        {
+            "sampler": 0,
+            "source": 4
+        },
+        {
+            "sampler": 0,
+            "source": 5
+        }
+    ],
+    "images": [
+        {
+            "uri": "cliff_side.jpg"
+        },
+        {
+            "uri": "Mars__Land5_D.png"
+        },
+        {
+            "uri": "pm0025_00_BodyA1.png"
+        },
+        {
+            "uri": "pm0025_00_BodyB1.png"
+        },
+        {
+            "uri": "pm0025_00_Mouth1.png"
+        },
+        {
+            "uri": "pm0025_00_Eye1.png"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "animations": [
+        {
+            "name": "clip",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 2,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 27,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 2,
+                    "target": {
+                        "node": 28,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 3,
+                    "target": {
+                        "node": 29,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 4,
+                    "target": {
+                        "node": 22,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 5,
+                    "target": {
+                        "node": 23,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 6,
+                    "target": {
+                        "node": 24,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 7,
+                    "target": {
+                        "node": 5,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 8,
+                    "target": {
+                        "node": 10,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 40
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 41
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 42
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 43
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 44
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 45
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 46
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 47
+                },
+                {
+                    "input": 39,
+                    "interpolation": "LINEAR",
+                    "output": 48
+                }
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "name": "skyShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 11904,
+            "max": [
+                7739
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "skyShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 7740,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "skyShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 92880,
+            "componentType": 5126,
+            "count": 7740,
+            "max": [
+                0.9999998807907105,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.999999701976776,
+                -0.9999997615814208,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "skyShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 7740,
+            "max": [
+                1.0,
+                0.0245506688952446,
+                1.0,
+                -1.0
+            ],
+            "min": [
+                -1.0,
+                -0.024550624191761018,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "skyShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 7740,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "groundShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 23808,
+            "componentType": 5123,
+            "count": 4110,
+            "max": [
+                4103
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "groundShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 185760,
+            "componentType": 5126,
+            "count": 4104,
+            "max": [
+                0.8160946369171143,
+                0.9999561309814452,
+                0.9205478429794312
+            ],
+            "min": [
+                -0.7866840958595276,
+                0.31882718205451968,
+                -0.7316493988037109
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "groundShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 235008,
+            "componentType": 5126,
+            "count": 4104,
+            "max": [
+                0.5000389814376831,
+                0.07618100196123123,
+                0.4999650120735169
+            ],
+            "min": [
+                0.02546600066125393,
+                -0.050331000238657,
+                -0.2848150134086609
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "groundShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 123840,
+            "componentType": 5126,
+            "count": 4104,
+            "max": [
+                0.8842987418174744,
+                0.9232156872749328,
+                0.9713970422744752,
+                1.0
+            ],
+            "min": [
+                -0.9141970872879028,
+                -0.7552757859230042,
+                -0.9999258518218994,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "groundShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 61920,
+            "componentType": 5126,
+            "count": 4104,
+            "max": [
+                1.000074028968811,
+                1.000010967254639
+            ],
+            "min": [
+                0.5256410241127014,
+                0.21538501977920533
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "PikachuMShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 32028,
+            "componentType": 5123,
+            "count": 12582,
+            "max": [
+                2531
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/JOINTS_0",
+            "bufferView": 3,
+            "byteOffset": 94752,
+            "componentType": 5123,
+            "count": 2532,
+            "max": [
+                29,
+                29,
+                29,
+                28
+            ],
+            "min": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 284256,
+            "componentType": 5126,
+            "count": 2532,
+            "max": [
+                0.999814748764038,
+                0.9991040825843812,
+                0.9953572750091552
+            ],
+            "min": [
+                -0.999814748764038,
+                -1.0,
+                -0.9976701140403748
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 314640,
+            "componentType": 5126,
+            "count": 2532,
+            "max": [
+                18.791763305664064,
+                26.892961502075197,
+                51.84117126464844
+            ],
+            "min": [
+                -17.04523277282715,
+                -17.617834091186525,
+                -0.01468065194785595
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 189504,
+            "componentType": 5126,
+            "count": 2532,
+            "max": [
+                0.9999997615814208,
+                0.9989089369773864,
+                0.9999836683273317,
+                1.0
+            ],
+            "min": [
+                -0.9999975562095642,
+                -0.9984099268913268,
+                -0.9999836087226868,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 115008,
+            "componentType": 5126,
+            "count": 2532,
+            "max": [
+                1.0,
+                0.9955329895019532
+            ],
+            "min": [
+                0.0,
+                0.005568027030676603
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "PikachuMShape#0/vertices/WEIGHTS_0",
+            "bufferView": 2,
+            "byteOffset": 230016,
+            "componentType": 5126,
+            "count": 2532,
+            "max": [
+                1.0,
+                0.5,
+                0.30000001192092898,
+                0.2300000041723251
+            ],
+            "min": [
+                0.2599999904632569,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#1/indices",
+            "bufferView": 0,
+            "byteOffset": 57192,
+            "componentType": 5123,
+            "count": 390,
+            "max": [
+                87
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/JOINTS_0",
+            "bufferView": 3,
+            "byteOffset": 135264,
+            "componentType": 5123,
+            "count": 88,
+            "max": [
+                10,
+                5,
+                0,
+                0
+            ],
+            "min": [
+                10,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 345024,
+            "componentType": 5126,
+            "count": 88,
+            "max": [
+                0.995053231716156,
+                0.49443691968917849,
+                0.8092891573905945
+            ],
+            "min": [
+                -0.9950531721115112,
+                -0.5282189846038818,
+                0.07329126447439194
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 346080,
+            "componentType": 5126,
+            "count": 88,
+            "max": [
+                10.081510543823244,
+                -8.072463989257813,
+                34.35945510864258
+            ],
+            "min": [
+                -10.081500053405762,
+                -14.911086082458496,
+                27.32171058654785
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 270528,
+            "componentType": 5126,
+            "count": 88,
+            "max": [
+                0.8530983328819275,
+                0.1864117681980133,
+                0.9962050914764404,
+                1.0
+            ],
+            "min": [
+                0.06795754283666611,
+                -0.18641126155853272,
+                -0.9962051510810852,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 135968,
+            "componentType": 5126,
+            "count": 88,
+            "max": [
+                0.987559974193573,
+                -2.777240037918091
+            ],
+            "min": [
+                0.012439999729394913,
+                -2.9727299213409426
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "PikachuMShape#1/vertices/WEIGHTS_0",
+            "bufferView": 2,
+            "byteOffset": 271936,
+            "componentType": 5126,
+            "count": 88,
+            "max": [
+                1.0,
+                0.09000000357627869,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.9100000262260436,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#2/indices",
+            "bufferView": 0,
+            "byteOffset": 57972,
+            "componentType": 5123,
+            "count": 336,
+            "max": [
+                71
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/JOINTS_0",
+            "bufferView": 3,
+            "byteOffset": 136672,
+            "componentType": 5123,
+            "count": 72,
+            "max": [
+                10,
+                5,
+                0,
+                0
+            ],
+            "min": [
+                10,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 347136,
+            "componentType": 5126,
+            "count": 72,
+            "max": [
+                0.6038002371788025,
+                0.911402463912964,
+                0.9978051781654358
+            ],
+            "min": [
+                -0.6037992835044861,
+                -0.604845404624939,
+                0.4115160405635834
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 348000,
+            "componentType": 5126,
+            "count": 72,
+            "max": [
+                5.833223342895508,
+                -13.60214614868164,
+                34.86845016479492
+            ],
+            "min": [
+                -5.833202362060547,
+                -17.454172134399419,
+                26.901124954223634
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 273344,
+            "componentType": 5126,
+            "count": 72,
+            "max": [
+                1.0,
+                0.21336233615875245,
+                0.6059823632240295,
+                1.0
+            ],
+            "min": [
+                0.7931811809539795,
+                -0.21336166560649873,
+                -0.6059834957122803,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 137248,
+            "componentType": 5126,
+            "count": 72,
+            "max": [
+                0.4257700443267822,
+                -1.7560501098632813
+            ],
+            "min": [
+                0.07423299551010132,
+                -1.9943499565124512
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "PikachuMShape#2/vertices/WEIGHTS_0",
+            "bufferView": 2,
+            "byteOffset": 274496,
+            "componentType": 5126,
+            "count": 72,
+            "max": [
+                1.0,
+                0.029999999329447748,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.9700000286102296,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#3/indices",
+            "bufferView": 0,
+            "byteOffset": 58644,
+            "componentType": 5123,
+            "count": 192,
+            "max": [
+                49
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/JOINTS_0",
+            "bufferView": 3,
+            "byteOffset": 137824,
+            "componentType": 5123,
+            "count": 50,
+            "max": [
+                10,
+                0,
+                0,
+                0
+            ],
+            "min": [
+                10,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 348864,
+            "componentType": 5126,
+            "count": 50,
+            "max": [
+                0.7477517127990723,
+                0.7733615636825562,
+                0.8852226734161377
+            ],
+            "min": [
+                -0.7477509379386902,
+                0.29261764883995058,
+                0.5296913981437683
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 349464,
+            "componentType": 5126,
+            "count": 50,
+            "max": [
+                7.72988224029541,
+                -11.05199909210205,
+                39.30319595336914
+            ],
+            "min": [
+                -7.729865550994873,
+                -15.75914192199707,
+                33.79536437988281
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 275648,
+            "componentType": 5126,
+            "count": 50,
+            "max": [
+                0.951752245426178,
+                0.18490412831306456,
+                0.7484591603279114,
+                1.0
+            ],
+            "min": [
+                0.6368803381919861,
+                -0.184907466173172,
+                -0.7484601736068726,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 138224,
+            "componentType": 5126,
+            "count": 50,
+            "max": [
+                0.4938199520111084,
+                -0.7662800550460815
+            ],
+            "min": [
+                0.006175994873046875,
+                -0.985859990119934
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "PikachuMShape#3/vertices/WEIGHTS_0",
+            "bufferView": 2,
+            "byteOffset": 276448,
+            "componentType": 5126,
+            "count": 50,
+            "max": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "PikachuMShape/skin/IBM",
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 30,
+            "max": [
+                0.658318817615509,
+                1.0,
+                0.7777659296989441,
+                0.0,
+                0.9381042718887328,
+                0.3337824642658234,
+                0.4933086633682251,
+                0.0,
+                0.9997172951698304,
+                0.9527238607406616,
+                1.0000001192092896,
+                0.0,
+                14.28530216217041,
+                24.437889099121099,
+                21.265586853027345,
+                1.0
+            ],
+            "min": [
+                -0.6583186388015747,
+                -1.0,
+                -0.7777621746063232,
+                0.0,
+                -0.9748342037200928,
+                -0.3337824046611786,
+                -1.000000238418579,
+                0.0,
+                -1.000000238418579,
+                -0.9527256488800048,
+                -0.6080641746520996,
+                0.0,
+                -42.57273864746094,
+                -24.437793731689458,
+                -8.36495590209961,
+                1.0
+            ],
+            "type": "MAT4"
+        },
+        {
+            "name": "clip/anim/frames",
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                2.633333444595337
+            ],
+            "min": [
+                0.0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "Origin/anim/clip/T",
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                -1.4062539339065552,
+                -0.19390755891799928
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "LThigh/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                -0.0964801087975502,
+                -0.4219525158405304,
+                0.05722568556666374,
+                0.8996515274047852
+            ],
+            "min": [
+                -0.10175962001085282,
+                -0.506926953792572,
+                0.04763313755393028,
+                0.8546589016914368
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "LLeg/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 1280,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                2.2000000043931327e-8,
+                0.781394898891449,
+                3.3999999260458938e-8,
+                0.7302691340446472
+            ],
+            "min": [
+                -1.7999999712969843e-8,
+                0.6831595301628113,
+                -4.999999969612645e-9,
+                0.6240368485450745
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "LFoot/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 2560,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                1.6200000629851278e-7,
+                -0.8907169699668884,
+                -0.0000010070000371342758,
+                0.4545583128929138
+            ],
+            "min": [
+                1.2700000695531345e-7,
+                -0.91171532869339,
+                -0.0000010579999525361928,
+                0.4108225405216217
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "RThigh/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 3840,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                0.10175973922014237,
+                -0.4219525456428528,
+                -0.04763297736644745,
+                0.8996515274047852
+            ],
+            "min": [
+                0.09648024290800096,
+                -0.506926953792572,
+                -0.05722552537918091,
+                0.8546589016914368
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "RLeg/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 5120,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                -6.100000149444895e-8,
+                0.7813946604728699,
+                8.899999670575198e-8,
+                0.7302694320678711
+            ],
+            "min": [
+                -1.2099999935344389e-7,
+                0.6831592321395874,
+                2.3000000126671698e-8,
+                0.6240371465682983
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "RFoot/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 6400,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                6.359999815686024e-7,
+                -0.8907170295715332,
+                -7.880000225668482e-7,
+                0.45455828309059145
+            ],
+            "min": [
+                6.120000080045429e-7,
+                -0.91171532869339,
+                -8.160000106727239e-7,
+                0.4108225107192993
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "Spine2/anim/clip/T",
+            "bufferView": 6,
+            "byteOffset": 960,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                6.343691349029541,
+                0.0,
+                0.0
+            ],
+            "min": [
+                5.55138111114502,
+                -0.000002873000084946398,
+                -0.06858193129301071
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "Head/anim/clip/R",
+            "bufferView": 7,
+            "byteOffset": 7680,
+            "componentType": 5126,
+            "count": 80,
+            "max": [
+                0.0,
+                0.2373747676610947,
+                0.0,
+                0.9828206300735474
+            ],
+            "min": [
+                0.0,
+                0.1845632642507553,
+                0.0,
+                0.9714181423187256
+            ],
+            "type": "VEC4"
+        }
+    ],
+    "bufferViews": [
+        {
+            "name": "pikachu/data/indices-2",
+            "buffer": 0,
+            "byteOffset": 779056,
+            "byteLength": 59028,
+            "target": 34963
+        },
+        {
+            "name": "pikachu/data/vertices-12",
+            "buffer": 0,
+            "byteOffset": 290048,
+            "byteLength": 350064,
+            "byteStride": 12,
+            "target": 34962
+        },
+        {
+            "name": "pikachu/data/vertices-16",
+            "buffer": 0,
+            "byteOffset": 10880,
+            "byteLength": 277248,
+            "byteStride": 16,
+            "target": 34962
+        },
+        {
+            "name": "pikachu/data/vertices-8",
+            "buffer": 0,
+            "byteOffset": 640112,
+            "byteLength": 138624,
+            "byteStride": 8,
+            "target": 34962
+        },
+        {
+            "name": "pikachu/data/generic-64",
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 1920
+        },
+        {
+            "name": "pikachu/data/generic-4",
+            "buffer": 0,
+            "byteOffset": 778736,
+            "byteLength": 320
+        },
+        {
+            "name": "pikachu/data/generic-12",
+            "buffer": 0,
+            "byteOffset": 288128,
+            "byteLength": 1920
+        },
+        {
+            "name": "pikachu/data/generic-16",
+            "buffer": 0,
+            "byteOffset": 1920,
+            "byteLength": 8960
+        }
+    ],
+    "buffers": [
+        {
+            "name": "pikachu/data",
+            "byteLength": 838084,
+            "uri": "pikachu0.bin"
+        }
+    ]
+}
